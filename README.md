@@ -1251,6 +1251,7 @@ This section is dedicated to some tools that may help users analyze the privacy 
 - [MAT2](https://github.com/jvoisin/mat2) - Removes metadata from images, documents, audio and other files. Command line tool with file manager integrations.
 - [Metadata Cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) - Simple desktop app to view and remove file metadata, built on MAT2.
 - [Mobile Verification Toolkit](https://github.com/mvt-project/mvt) - Forensic tool from Amnesty International that checks Android and iOS devices for traces of spyware such as Pegasus.
+- [mincifry-ca-restrict](https://github.com/gleb-pp/mincifry-ca-restrict) - Cross-platform scripts that limit the Russian Ministry of Digital Development root CA to a user-defined list of domains via X.509 name constraints, instead of trusting it for the whole internet. MIT licensed.
 
 ### Android
 
